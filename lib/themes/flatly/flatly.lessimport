@@ -8,7 +8,7 @@
 
 @import "../../less/bootstrap.lessimport";
 @import "variables.lessimport";
-@import url("http://fonts.googleapis.com/css?family=Lato:400,700,900,400italic");
+@import url("//fonts.googleapis.com/css?family=Lato:400,700,900,400italic");
 
 h1 {
   font-size: 48px;
